@@ -28,6 +28,10 @@ image:
 projects: []
 ---
 
+### Talks and Workshops
+
+Publics sessions I've created and hosted
+
 * [The Red Line Reflection](https://medium.com/@ElizAyer/the-red-line-reflection-drawing-a-line-on-acceptable-consequences-94bbb79bc1f7) - 2024 self-facilitated reflection on values and organizational consequences  
 
 
@@ -42,7 +46,19 @@ projects: []
 
 * [Agile Traps - Common practices that wreck teams](lwt-agiletraps-ayer-lee.pdf) - 2021 talk with Nikki Lee at Lesbians Who Tech on the power-dynamic pitfalls of agile practices
 
-
-
-
 Need another format? Just ask!
+
+
+### Popular posts from my [blog on Medium](https://medium.com/@elizayer)
+
+
+
+* [Don't ask forgiveness, radiate intent](https://medium.com/@ElizAyer/dont-ask-forgiveness-radiate-intent-d36fd22393a3) 
+
+* [Meetings \*are\* the work](https://medium.com/@ElizAyer/meetings-are-the-work-9e429dde6aa3)
+
+* [Annual Performance Reviews Ruin Everything](https://medium.com/@ElizAyer/annual-performance-reviews-ruin-everything-7464e07dff3a)
+
+
+
+
