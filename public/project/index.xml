@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Elizabeth Ayer</title>
+    <link>http://localhost:1313/project/</link>
+    <description>Recent content in Projects on Elizabeth Ayer</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 21 Jan 2025 19:35:26 -0800</lastBuildDate>
+    
+	    <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Product Leadership</title>
+      <link>http://localhost:1313/project/product-management/</link>
+      <pubDate>Tue, 21 Jan 2025 19:35:26 -0800</pubDate>
+      
+      <guid>http://localhost:1313/project/product-management/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/project/product-management/Product-managing-high-quality-products-Ayer.pdf&#34;&gt;Product Managing High-Quality Products&lt;/a&gt; - 2024 talk at Project to Product Summit on sustaining quality as a product matures&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@ElizAyer/enshittification-as-overproduction-in-software-part-1-seeing-overproduction-7f175bca7724&#34;&gt;Enshittification as Overproduction Part 1&lt;/a&gt; and &lt;a href=&#34;https://medium.com/@ElizAyer/enshittification-as-overproduction-in-software-part-2-overproduction-in-the-product-lifecycle-99584e8da458&#34;&gt;Part 2&lt;/a&gt; - 2024 blog posts exploring the disastrous effect of pushing unwanted features on the market&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/project/product-management/product-management-continuous-delivery-ayer.pdf&#34;&gt;Closing the Loop: Product Management for Continuous Delivery&lt;/a&gt; -  2019 keynote at FlowConf on building a team culture of feedback loops, healthy goal-setting, and empowerment&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/project/product-management/continuous-product-management-ayer.pdf&#34;&gt;Feed Success and Starve Failure: Continuous Product Management&lt;/a&gt; -  2019 talk at Industry on smoothing out strategy swings via smooth change and feedback loops&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/project/product-management/government-product-management-ayer.pdf&#34;&gt;Uncle Sam&amp;rsquo;s Recipe: Agile Product Management&lt;/a&gt; -  2019 talk at Mile High Agile on techniques and challenges of product management in government&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/project/product-management/product-and-cd-ayer.pdf&#34;&gt;What Product Management Needs: the Gift of Continuous Delivery&lt;/a&gt; - 2018 talk at the London Continuous Delivery Meetup on closing feedback loops&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/project/product-management/zen-and-continuous-delivery-ayer.pdf&#34;&gt;Zen and the Art of Continuous Delivery&lt;/a&gt; -  2015 talk at Lean Agile Scotland on the parallels between Continuous Delivery and Mindfulness&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Need another format? Just ask!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Team Topologies</title>
+      <link>http://localhost:1313/project/team-topologies/</link>
+      <pubDate>Sat, 20 Jan 2024 17:52:18 -0800</pubDate>
+      
+      <guid>http://localhost:1313/project/team-topologies/</guid>
+      <description>&lt;p&gt;Coming April 14-15, 2025! &lt;a href=&#34;https://confluxhq.com/all-events/explore-ddd-denver-2025-masterclass&#34;&gt;Success Patterns for Fast Flow and Team Topologies&lt;/a&gt; with Christopher Marsh at Explore DDD in Denver, CO&lt;/p&gt;
+&lt;p&gt;Previous:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Success Patterns for Fast Flow and Team Topologies - 2024 workshop with Christopher Marsh at QCon SF&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/project/team-topologies/strategic-sourcing-team-topologies-ayer.pdf&#34;&gt;Strategic Sourcing and Team Topologies&lt;/a&gt; - 2024 talk at the Enterprise Technology Leadership Summit on Team Topologies and enterprise procurement&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mindtheproduct.com/product-leaders-guide-to-team-topologies/&#34;&gt;Product leaders&amp;rsquo; guide to team topologies&lt;/a&gt; - 2023 article on Mind the Product introducing key concepts of org design and TT to product leaders&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/project/team-topologies/not-enough-kitchens-ayer.pdf&#34;&gt;Too many cooks or not enough kitchens?&lt;/a&gt; - 2023 closing keynote at RustConf on the importance and curation of boundaries.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I am an &lt;a href=&#34;https://confluxhq.com/all-people/elizabeth-ayer&#34;&gt;Associate Principal&lt;/a&gt; with Conflux, the digital transformation consultancy. If you are interested in what Team Topologies can do for your org, please &lt;a href=&#34;https://confluxhq.com/contact&#34;&gt;get in touch through Conflux&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Power, Ethics, Collaboration</title>
+      <link>http://localhost:1313/project/power-ethics-collaboration/</link>
+      <pubDate>Thu, 19 Jan 2023 19:35:26 -0800</pubDate>
+      
+      <guid>http://localhost:1313/project/power-ethics-collaboration/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@ElizAyer/the-red-line-reflection-drawing-a-line-on-acceptable-consequences-94bbb79bc1f7&#34;&gt;The Red Line Reflection&lt;/a&gt; - 2024 self-facilitated reflection on values and organizational consequences&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/project/power-ethics-collaboration/Flourishing-with-Feminism-PLoP-Ayer-Wynne.pdf&#34;&gt;Flourishing with Feminism&lt;/a&gt; - 2024 workshop with Matt Wynne at the Conference on Pattern Languages of Programs, People, and Practices. Paper forthcoming&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/project/power-ethics-collaboration/AgileCambridge24-Ayer.pdf&#34;&gt;Beyond Transparency&lt;/a&gt; - 2024 talk at Agile Cambridge on building communication across boundaries, puncturing myths of transparency&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/project/power-ethics-collaboration/Product-Leaders-Guide-to-Power.pdf&#34;&gt;Product Leaders&amp;rsquo; Guide to Power&lt;/a&gt; - 2023 workshop for Product Tank on power dynamics and how to hoard less&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/project/power-ethics-collaboration/Ethics-of-Influence-Ayer.pdf&#34;&gt;Changing Minds - you can, but should you?&lt;/a&gt; - 2023 talk at Agile on the Beach on ethics and change management &lt;a href=&#34;https://www.youtube.com/watch?v=48ZstwZypqc&#34;&gt;Recording&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/project/power-ethics-collaboration/lwt-agiletraps-ayer-lee.pdf&#34;&gt;Agile Traps - Common practices that wreck teams&lt;/a&gt; - 2021 talk with Nikki Lee at Lesbians Who Tech on the power-dynamic pitfalls of agile practices&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Need another format? Just ask!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
